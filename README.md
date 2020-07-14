@@ -1,5 +1,5 @@
 
-<img style="display: block; height: 300px; margin: auto;" src="images/code_thinking.png" />
+<img style="display: block; height: 300px; margin: auto;" src="https://github.com/juliogc/juliogc/raw/master/images/code_thinking.png" />
 
 ### 👋🌎 Hello, world!
 
