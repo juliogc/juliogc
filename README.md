@@ -7,11 +7,11 @@ I'm **Júlio**, a full stack developer passionate for technologies, focused to p
 
 ### 👨‍💻 Coding skill
 
-**Programming languages**: Javascript, Ruby, Java, Shell
-**Techniques:** OOP, Design Patterns, Domain-driven Design
-**Devops:** Containers and orchestration (docker, docker-compose, kubernetes) and CLI automations
-**Databases:** SQL (PostgreSQL, MySQL, Oracle SQL), NoSQL (Redis, MongoDB)
-**Spoken languages:** Portuguese (native) and English (intermediary)
+**Programming languages**: Javascript, Ruby, Java, Shell<br/>
+**Techniques:** OOP, Design Patterns, Domain-driven Design<br/>
+**Devops:** Containers and orchestration (docker, docker-compose, kubernetes) and CLI automations<br/>
+**Databases:** SQL (PostgreSQL, MySQL, Oracle SQL), NoSQL (Redis, MongoDB)<br/>
+**Spoken languages:** Portuguese (native) and English (intermediary)<br/>
 
 
 ### 📫 We can keep in touch at [jgcorradi@gmail.com](mailto:jgcorradi@gmail.com)
