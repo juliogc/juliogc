@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**juliogc/juliogc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="display: block; height: 300px; margin: auto;" src="images/code_thinking.png" />
 
-Here are some ideas to get you started:
+### 👋🌎 Hello, world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Júlio**, a full stack developer passionate for technologies, focused to provide the great web solutions and customer experiences since 2010. Currently working as a tech leader and software specialist at <a href="http://bionexo.com.br/">Bionexo</a>.
+
+### 👨‍💻 Coding skill
+
+**Programming languages**: Javascript, Ruby, Java, Shell
+**Techniques:** OOP, Design Patterns, Domain-driven Design
+**Devops:** Containers and orchestration (docker, docker-compose, kubernetes) and CLI automations
+**Databases:** SQL (PostgreSQL, MySQL, Oracle SQL), NoSQL (Redis, MongoDB)
+**Spoken languages:** Portuguese (native) and English (intermediary)
+
+
+### 📫 We can keep in touch at [jgcorradi@gmail.com](mailto:jgcorradi@gmail.com)
