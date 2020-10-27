@@ -3,7 +3,7 @@
 
 ### 👋🌎 Hello, world!
 
-I'm **Júlio**, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a tech leader and software specialist at <a href="http://bionexo.com.br/">Bionexo</a>.
+I'm **Júlio**, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a tech leader and software specialist at [banQi](https://banqi.com.br/)/[Airfox](https://airfox.com/).
 
 ### 👨‍💻 Coding skill
 
