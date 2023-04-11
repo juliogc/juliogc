@@ -1,6 +1,3 @@
-
-<img style="display: block; height: 200px; margin: auto;" src="https://github.com/juliogc/juliogc/raw/master/images/code_thinking.png" />
-
 <table>
   <tbody>
     <tr align="center">
