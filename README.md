@@ -1,7 +1,7 @@
-<table>
+<table cellspacing="0" cellpadding="0">
   <tbody>
     <tr align="center">
-      <td width="50%" style="border: none !important">
+      <td width="50%">
         <p><h2>👋🌎 Hello, world!</h2></p>
         <p>I'm <b>Júlio</b>, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a software specialist at <a href="https://www.quintoandar.com.br/" target="_blank">Quinto Andar</a>.</p>
         <div>
