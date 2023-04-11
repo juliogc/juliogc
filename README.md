@@ -1,17 +1,49 @@
 
 <img style="display: block; height: 200px; margin: auto;" src="https://github.com/juliogc/juliogc/raw/master/images/code_thinking.png" />
 
-### 👋🌎 Hello, world!
+<table>
+  <tbody>
+    <tr align="center">
+      <td width="50%" style="border: none !important">
+        <p><h2>👋🌎 Hello, world!</h2></p>
+        <p>I'm <b>Júlio</b>, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a software specialist at <a href="https://www.quintoandar.com.br/" target="_blank">Quinto Andar</a>.</p>
+        <div>
+          <a href="https://www.linkedin.com/in/juliocorradi" target="_blank"><img src="https://img.shields.io/badge/Julio%20Corradi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+          <a href="mailto:jgcorradi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgcorradi@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/></a>
+        <div>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=juliogc&theme=dark&background=00000000)" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-I'm **Júlio**, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a software specialist at [Quinto Andar](https://www.quintoandar.com.br/).
+### 👨‍💻 Coding skills
 
-### 👨‍💻 Coding skill
+#### Programming languages ####
+- JavaScript/NodeJS/TypeScript
+- Java
+- Ruby
+- Shell Script
 
-**Programming languages**: JavaScript/NodeJS/TypeScript, Ruby, Java, Shell Script<br/>
-**Techniques:** OOP, Design Patterns, Domain-driven Design<br/>
-**Devops:** Containers and orchestration (docker, docker-compose, kubernetes) and CLI automations<br/>
-**Databases:** SQL (PostgreSQL, MySQL, Oracle SQL), NoSQL (Redis, MongoDB)<br/>
-**Spoken languages:** Portuguese (native) and English (intermediary)<br/>
+#### Techniques ####
+- SOLID and OOP Design Patterns
+- Domain-driven Design
+- Transactional Outbox Pattern
 
+#### Devops ####
+- Cloud Computing/AWS
+- Containers and orchestration (docker, docker-compose, kubernetes)
+- CI/CD (Jenkins, Drone, TravisCI, Github Actions, CircleCI)
+- CLI automations (custom binaries, terraform)
 
-### 📫 We can keep in touch at [jgcorradi@gmail.com](mailto:jgcorradi@gmail.com)
+#### Databases ####
+- SQL (PostgreSQL, MySQL, Oracle SQL)
+- NoSQL (Redis, MongoDB, Elasticsearch)
+
+### Spoken languages ### 
+- Portuguese (native)
+- English (intermediary)
+
+### 📫 We can keep in touch at <a href="https://www.linkedin.com/in/juliocorradi" target="_blank"><img src="https://img.shields.io/badge/Julio%20Corradi-blue?logo=linkedin" alt="LinkedIn Badge"/></a> <a href="mailto:jgcorradi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgcorradi@gmail.com-red?logo=gmail&logoColor=white" alt="GMail Badge"/></a>
