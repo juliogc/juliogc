@@ -3,7 +3,7 @@
     <tr align="center">
       <td width="50%">
         <p><h2>👋🌎 Hello, world!</h2></p>
-        <p>I'm <b>Júlio</b>, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010. Currently working as a software specialist at <a href="https://www.quintoandar.com.br/" target="_blank">Quinto Andar</a>.</p>
+        <p>I'm <b>Júlio</b>, a full stack developer passionate for technologies, focused to provide great web solutions and customer experiences since 2010.</p>
         <div>
           <a href="https://www.linkedin.com/in/juliocorradi" target="_blank"><img src="https://img.shields.io/badge/Julio%20Corradi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
           <a href="mailto:jgcorradi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgcorradi@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail Badge"/></a>
